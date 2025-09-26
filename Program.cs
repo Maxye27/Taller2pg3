@@ -21,7 +21,7 @@ namespace Taller2pg;
         perso.Ciudad = Console.ReadLine();
         Console.WriteLine("Digite su estado civil: ");
         perso.Estadocivil = Console.ReadLine();
-        
+
         Console.WriteLine("Su nombre es: " + perso.Nombre);
         Console.WriteLine("Su peso es: " + perso.Peso);
         Console.WriteLine("Su altura es: " + perso.Altura);
@@ -31,5 +31,6 @@ namespace Taller2pg;
         Console.WriteLine("Su ciudad es: " + perso.Ciudad);
         Console.WriteLine("Su estado civil es: " + perso.Estadocivil);
 
-        }
+        Console.WriteLine("Su indice de masa corporal es: " + perso.imc());
+    }
     }

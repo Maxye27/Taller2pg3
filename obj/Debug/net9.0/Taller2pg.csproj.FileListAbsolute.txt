@@ -12,3 +12,4 @@ C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\refint\Taller2pg.dll
 C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.pdb
 C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.genruntimeconfig.cache
 C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\ref\Taller2pg.dll
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.sourcelink.json

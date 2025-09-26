@@ -5,14 +5,14 @@ namespace Taller2pg
     public class persona
     {
 
-        public string Nombre{ get; set;}
-        public float Peso { get; set;} 
-        public float Altura { get; set;}
-        public int Edad { get; set;}
-        public string Genero { get; set;}
-        public string Ocupacion { get; set;}
-        public string Ciudad { get; set;}
-        public string Estadocivil { get; set;}
+        public string Nombre { get; set; }
+        public float Peso { get; set; }
+        public float Altura { get; set; }
+        public int Edad { get; set; }
+        public string Genero { get; set; }
+        public string Ocupacion { get; set; }
+        public string Ciudad { get; set; }
+        public string Estadocivil { get; set; }
 
         public persona()
         {
@@ -24,6 +24,10 @@ namespace Taller2pg
             Ocupacion = "";
             Ciudad = "";
             Estadocivil = "";
+        }
+        public float imc()
+        {
+            return Peso / (Altura * Altura);
         }
     }
 }
