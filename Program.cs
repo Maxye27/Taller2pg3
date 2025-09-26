@@ -32,5 +32,6 @@ namespace Taller2pg;
         Console.WriteLine("Su estado civil es: " + perso.Estadocivil);
 
         Console.WriteLine("Su indice de masa corporal es: " + perso.imc());
+        Console.WriteLine(perso.ClasificarIMC());
     }
     }
