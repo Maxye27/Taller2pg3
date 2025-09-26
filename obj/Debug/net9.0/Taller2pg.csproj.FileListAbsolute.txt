@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Taller2pg\bin\Debug\net9.0\Taller2pg.exe
+C:\xampp\htdocs\Taller2pg\bin\Debug\net9.0\Taller2pg.deps.json
+C:\xampp\htdocs\Taller2pg\bin\Debug\net9.0\Taller2pg.runtimeconfig.json
+C:\xampp\htdocs\Taller2pg\bin\Debug\net9.0\Taller2pg.dll
+C:\xampp\htdocs\Taller2pg\bin\Debug\net9.0\Taller2pg.pdb
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.AssemblyInfo.cs
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.dll
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\refint\Taller2pg.dll
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.pdb
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\Taller2pg.genruntimeconfig.cache
+C:\xampp\htdocs\Taller2pg\obj\Debug\net9.0\ref\Taller2pg.dll
